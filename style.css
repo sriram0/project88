@@ -1,0 +1,23 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
+}
+#c
+{
+    border: 3px ridge yellow;
+	background-image: url("Grass.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+
+#hd3, span{
+	display: inline-block;
+	color: red;
+	background-color: aliceblue;
+	font-family: fantasy;
+}
+
